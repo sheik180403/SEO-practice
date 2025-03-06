@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.font-Hanken {
+   font-family: "Hanken Grotesk", sans-serif;
+}
+
+.font-cabin{
+   font-family: "Cabin", sans-serif;
+}
